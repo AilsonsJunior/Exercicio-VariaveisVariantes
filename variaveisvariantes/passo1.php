@@ -19,7 +19,7 @@
             }
         ?>
         <p></p><input type="submit" value="Enviar" class="botao"><br/></p>
-        <p><a href="01cont.htm" class="botao">Voltar</a></p>
+        <p><a href="inicio.html" class="botao">Voltar</a></p>
     </form>
 </div>
 </body>

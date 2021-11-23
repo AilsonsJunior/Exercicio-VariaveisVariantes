@@ -34,8 +34,8 @@
       echo "<br/><br/>A media dos valores informados é igual à:  " . number_format ($media,2);
     ?>  
     <br/>
-    
-    <p><a href="01cont.htm" class="botao">Inicio</a></p>
+
+    <p><a href="inicio.html" class="botao">Inicio</a></p>
 </div>
 </body>
 </html>
