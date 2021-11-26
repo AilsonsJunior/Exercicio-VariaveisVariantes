@@ -28,13 +28,11 @@
       }
       $raiz = sqrt($total);
       $media = ($total / $cont) ;
-
       echo "<br/>Valor total : $total <br/>"  ;
       echo "<br/>A raiz quadrada da soma é igual: " . number_format ($raiz, 2);
       echo "<br/><br/>A media dos valores informados é igual à:  " . number_format ($media,2);
     ?>  
     <br/>
-
     <p><a href="inicio.html" class="botao">Inicio</a></p>
 </div>
 </body>
